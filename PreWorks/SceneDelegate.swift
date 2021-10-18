@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  PreWorks
 //
-//  Created by Huy Nguyen on 8/27/21.
+//  Created by Hieu Pham on 8/27/21.
 //
 
 import UIKit
